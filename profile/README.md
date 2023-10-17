@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="YW3t_4L_if49fKPKtL3eltsbO_y0Vq1S2zhBoADOHYE" />
 ProDSP is a dynamic, hi-tech design center. We offer unique engineering solutions and test systems to the major players of the industrial electronics, automotive, and electromobility industries.
 
 We deliver turn-key solutions: following the innovative engineering design and development, with production also taking place on our premises. Production and testing is carried out by our proficient team of technicians, led by our project management department. As a result, the finished turn-key product is complete and ready to use.
